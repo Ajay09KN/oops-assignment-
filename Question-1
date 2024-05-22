@@ -10,5 +10,5 @@ int main() {
 
     cout << "Maths=" << Maths << ", Physics=" << Physics << ", Chemistry=" << Chemistry << endl;
 
-    return 0;
+    return 0; 
 } 
