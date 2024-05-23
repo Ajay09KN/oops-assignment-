@@ -1,4 +1,4 @@
-/*Write a program to read 2 numbers from the keyboard and display the larger value on the screen.*/
+/* 2.Write a program to read 2 numbers from the keyboard and display the larger value on the screen.*/
 
 #include <iostream>
 
