@@ -1,4 +1,4 @@
-/* 8. A book shop maintains the inventory of books that are being sold at the shop. The list includes details such
+/* 8.A book shop maintains the inventory of books that are being sold at the shop. The list includes details such
 as author, title, price, publisher and stock position. Whenever a customer wants a book, the sales person
 inputs the title and author and the system searches the list and displays whether it is available or not. If it is
 not, an appropriate message is displayed. If it is, then the system displays the book details and requests for
